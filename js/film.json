@@ -1,0 +1,781 @@
+[
+    {
+        "comment": "Бюджет: 170 млн.$.",
+        "img": "http://kinogo.club/uploads/posts/2013-11/1385564215_dikiydikiyzapad.jpg",
+        "description": "Два спецагента получают задание выследить хитроумного и дьявольского преступника, вынашивающего замысел убийства Президента США при помощи огромного монструозного ходячего оружия по имени 'Тарантул'…",
+        "site": "http://www.wildwildwest.net",
+        "imdb_id": 120891,
+        "persons": [
+            {
+                "status": 1,
+                "imdb_id": 177,
+                "type": 1,
+                "id": 3,
+                "name": "Кевин Кляйн"
+            },
+            {
+                "status": 1,
+                "imdb_id": 226,
+                "type": 1,
+                "id": 2,
+                "name": "Уилл Смит"
+            },
+            {
+                "status": 1,
+                "imdb_id": 1756,
+                "type": 3,
+                "id": 1,
+                "name": "Барри Зонненфельд"
+            },
+            {
+                "status": 1,
+                "imdb_id": 110,
+                "type": 1,
+                "id": 4,
+                "name": "Салма Хайек"
+            },
+            {
+                "status": 1,
+                "imdb_id": 161,
+                "type": 1,
+                "id": 79,
+                "name": "Кеннет Брана"
+            }
+        ],
+        "year": 1999,
+        "id": 7,
+        "ratings": [
+            {
+                "source": "kinoinfo",
+                "rate": "6.44",
+                "votes": 9
+            },
+            {
+                "source": "imdb",
+                "rate": "4.8",
+                "votes": 122244
+            }
+        ],
+        "genres": [
+            {
+                "id": 1,
+                "name": "комедия"
+            },
+            {
+                "id": 3,
+                "name": "фантастика"
+            },
+            {
+                "id": 7,
+                "name": "боевик"
+            }
+        ],
+
+        
+        "name": "Дикий дикий Запад",
+        "limits": "0+",
+        "countries": [
+            {
+                "id": 1,
+                "name": "США"
+            }
+        ],
+        "datelastupd": "2010-11-07 08:15:36",
+        "release": "2000-03-08",
+        "runtime": 107,
+        "original": "Wild Wild West"
+    },
+    {
+        "comment": "Бюджет: 60 млн.$.",
+        "img": "http://kinogo.club/uploads/posts/2013-11/1384948386_glubokoesineemore.jpg",
+        "description": "Биологи, претворяя в жизнь проект по борьбе с раком мозга, ставят опасные эксперименты над акулами. Это приводит к тому, что свирепые создания, стремясь вырваться на свободу, уничтожают всех на своем пути…",
+        "site": "http://www.wb-deepbluesea.com",
+        "imdb_id": 149261,
+        "persons": [
+            {
+                "status": 1,
+                "imdb_id": 1317,
+                "type": 3,
+                "id": 6,
+                "name": "Ренни Харлин"
+            },
+            {
+                "name": "Томас Джейн"
+            },
+            {
+                "status": 1,
+                "imdb_id": 168,
+                "type": 1,
+                "id": 7,
+                "name": "Сэмюэль Л.Джексон"
+            },
+            {
+                "status": 1,
+                "imdb_id": 1745,
+                "type": 1,
+                "id": 3960,
+                "name": "Стеллан Скарсгард"
+            }
+        ],
+        "year": 1999,
+        "id": 8,
+        "ratings": [
+            {
+                "source": "kinoinfo",
+                "rate": "7.4",
+                "votes": 10
+            },
+            {
+                "source": "imdb",
+                "rate": "5.8",
+                "votes": 92103
+            }
+        ],
+        "genres": [
+            {
+                "id": 3,
+                "name": "фантастика"
+            },
+            {
+                "id": 10,
+                "name": "ужасы"
+            },
+            {
+                "id": 9,
+                "name": "триллер"
+            }
+        ],
+        "name": "Глубокое синее море",
+        "limits": "12+",
+        "countries": [
+            {
+                "id": 1,
+                "name": "США"
+            }
+        ],
+        "datelastupd": "2008-10-16 11:20:27",
+        "release": "2000-04-06",
+        "runtime": 104,
+        "original": "Deep Blue Sea"
+    },
+    {
+        "comment": "Бюджет: 30 млн.$.",
+        "img": "http://torrentsfiles.ru/_ld/259/25998.jpg",
+        "description": "Мафиози нанимает психотерапевта, так как с приходом старости почувствовал, что теряет силу и власть… И неожиданно для всех эти два полярно разных человека становятся друзьями.",
+        "site": "http://www.analyzethis.com",
+        "imdb_id": 122933,
+        "persons": [
+            {
+                "status": 1,
+                "imdb_id": 601,
+                "type": 3,
+                "id": 9,
+                "name": "Харольд Ремис"
+            },
+            {
+                "status": 1,
+                "imdb_id": 134,
+                "type": 1,
+                "id": 10,
+                "name": "Роберт Де Ниро"
+            },
+            {
+                "status": 1,
+                "imdb_id": 345,
+                "type": 1,
+                "id": 11,
+                "name": "Билли Кристал"
+            },
+            {
+                "status": 1,
+                "imdb_id": 345,
+                "type": 1,
+                "id": 11,
+                "name": "Лиза Кудроу"
+            }
+        ],
+        "year": 1999,
+        "id": 9,
+        "ratings": [
+            {
+                "source": "kinoinfo",
+                "rate": "8.25",
+                "votes": 8
+            },
+            {
+                "source": "imdb",
+                "rate": "6.7",
+                "votes": 116620
+            }
+        ],
+        "genres": [
+            {
+                "id": 1,
+                "name": "комедия"
+            },            {
+                "id": 1,
+                "name": "драма"
+            },            {
+                "id": 1,
+                "name": "мелодрама"
+            }
+        ],
+        "name": "Анализируй это",
+        "limits": "12+",
+        "countries": [
+            {
+                "id": 1,
+                "name": "США"
+            }
+        ],
+        "datelastupd": "2008-10-16 11:22:10",
+        "release": "2000-01-01",
+        "runtime": 103,
+        "original": "Analyze This"
+    },
+    {
+        "comment": "Бюджет: 19 млн.$.",
+        "img": "https://my-hit.org/storage/211878_500x800x250.jpg",
+        "description": "Шестерым незнакомцам предложено по одному миллиону долларов в награду за то, что они проведут ночь в доме с жутким прошлым. Когда приглашенные узнают о его истории, им становится понятна вся суть зла…",
+        "site": "http://www.houseonhauntedhill.com",
+        "imdb_id": 185371,
+        "persons": [
+            {
+                "status": 1,
+                "imdb_id": 463,
+                "type": 1,
+                "id": 17,
+                "name": "Фамке Янсен"
+            },
+            {
+                "status": 1,
+                "imdb_id": 1691,
+                "type": 1,
+                "id": 16,
+                "name": "Джеффри Раш"
+            },
+            {
+                "status": 1,
+                "imdb_id": 933098,
+                "type": 1,
+                "id": 18,
+                "name": "Бриджет Уилсон"
+            },
+            {
+                "status": 1,
+                "imdb_id": 709,
+                "type": 2,
+                "id": 146,
+                "name": "Роберт Земекис"
+            }
+        ],
+        "year": 1999,
+        "id": 10,
+        "ratings": [
+            {
+                "source": "kinoinfo",
+                "rate": "8.08",
+                "votes": 12
+            },
+            {
+                "source": "imdb",
+                "rate": "5.6",
+                "votes": 43035
+            }
+        ],
+        "genres": [
+            {
+                "id": 10,
+                "name": "ужасы"
+            },
+                        {
+                "id": 10,
+                "name": "детектив"
+            },
+                        {
+                "id": 10,
+                "name": "триллер"
+            }
+        ],
+        "name": "Дом ночных призраков",
+        "limits": "16+",
+        "countries": [
+            {
+                "id": 1,
+                "name": "США"
+            }
+        ],
+        "datelastupd": "2008-10-16 11:27:43",
+        "release": "2001-05-14",
+        "runtime": 96,
+        "original": "House On Haunted Hill"
+    },
+    {
+        "comment": "Бюджет: 65 млн.$.",
+        "img": "http://www.cinemadelsilenzio.it/images/film/poster/745_big.jpg",
+        "description": "Канун Рождества - время исполнения заветных желаний. Красивая и счастливая супружеская чета - Элис и Билл приглашены на светскую вечеринку. Как далеко нас могут завести любовные фантазии и жажда запретного? Ревность - это залог прочности брака, гангрена души или постыдный пережиток прошлого? Есть тайны, столкнувшись с которыми вы уже становитесь соучастником действия. Есть сны, которые невозможны без реальности, бесконечно многогранной. Но и она может оказаться инсценировкой...",
+        "site": "http://www.eyeswideshut.com",
+        "imdb_id": 120663,
+        "persons": [
+            {
+                "status": 1,
+                "imdb_id": 40,
+                "type": 3,
+                "id": 12,
+                "name": "Стенли Кубрик"
+            },
+            {
+                "status": 1,
+                "imdb_id": 129,
+                "type": 1,
+                "id": 13,
+                "name": "Том Круз"
+            },
+            {
+                "status": 1,
+                "imdb_id": 173,
+                "type": 1,
+                "id": 14,
+                "name": "Николь Кидман"
+            },
+            {
+                "status": 1,
+                "imdb_id": 40,
+                "type": 4,
+                "id": 12,
+                "name": "Стенли Кубрик"
+            },
+            {
+                "status": 1,
+                "imdb_id": 1628,
+                "type": 1,
+                "id": 93,
+                "name": "Сидни Поллак"
+            },
+            {
+                "status": 1,
+                "imdb_id": 5447,
+                "type": 1,
+                "id": 493,
+                "name": "Лили Собески"
+            }
+        ],
+        "year": 1999,
+        "id": 11,
+        "ratings": [
+            {
+                "source": "kinoinfo",
+                "rate": "8.12",
+                "votes": 17
+            },
+            {
+                "source": "imdb",
+                "rate": "7.3",
+                "votes": 208702
+            }
+        ],
+        "genres": [
+            {
+                "id": 4,
+                "name": "мелодрама"
+            },
+            {
+                "id": 9,
+                "name": "триллер"
+            },
+            {
+                "id": 16,
+                "name": "эротика"
+            }
+        ],
+        "name": "С широко закрытыми глазами",
+        "limits": "18+",
+        "countries": [
+            {
+                "id": 1,
+                "name": "США"
+            }
+        ],
+        "datelastupd": "2008-12-21 16:01:43",
+        "release": "2000-05-01",
+        "runtime": 159,
+        "original": "Eyes Wide Shut"
+    },
+    {
+        "comment": "",
+        "img": "https://my-hit.org/storage/244225_500x800x250.jpg",
+        "description": "Кровавая вендетта, затянувшиеся на 13 лет, началась из-за влюбленности молоденькой жены могущественного и зловещего политика в молодого человека не своего круга.",
+        "site": "",
+        "imdb_id": 179182,
+        "persons": [
+            {
+                "status": 1,
+                "imdb_id": 1707,
+                "type": 3,
+                "id": 20,
+                "name": "Пол Шредер"
+            },
+            {
+                "status": 1,
+                "imdb_id": 1212,
+                "type": 1,
+                "id": 21,
+                "name": "Джозеф Файнс"
+            },
+            {
+                "status": 1,
+                "imdb_id": 501,
+                "type": 1,
+                "id": 23,
+                "name": "Рэй Лиотта"
+            },
+            {
+                "status": 1,
+                "imdb_id": 1707,
+                "type": 4,
+                "id": 20,
+                "name": "Пол Шредер"
+            }
+        ],
+        "year": 1999,
+        "id": 12,
+        "ratings": [
+            {
+                "source": "kinoinfo",
+                "rate": "7.43",
+                "votes": 7
+            },
+            {
+                "source": "imdb",
+                "rate": "5.3",
+                "votes": 1804
+            }
+        ],
+        "genres": [
+            {
+                "id": 2,
+                "name": "романтика"
+            },
+            {
+                "id": 9,
+                "name": "триллер"
+            },
+            {
+                "id": 9,
+                "name": "драма"
+            }
+        ],
+        "name": "Моя навсегда",
+        "limits": "12+",
+        "countries": [
+            {
+                "id": 1,
+                "name": "США"
+            }
+        ],
+        "datelastupd": "2008-10-16 11:44:53",
+        "release": "2000-07-01",
+        "runtime": 115,
+        "original": "Forever Mine"
+    },
+    {
+        "comment": "",
+        "img": "https://my-hit.org/storage/227865_500x800x250.jpg",
+        "description": "Приключения, погони и любовь незаурядных авантюристов, смех сквозь слезы - все это есть в этом фильме…",
+        "site": "http://www.robtherich.com",
+        "imdb_id": 134033,
+        "persons": [
+            {
+                "status": 1,
+                "imdb_id": 1015,
+                "type": 1,
+                "id": 26,
+                "name": "Роберт Карлайл"
+            },
+            {
+                "status": 1,
+                "imdb_id": 239,
+                "type": 1,
+                "id": 27,
+                "name": "Лив Тайлер"
+            },
+            {
+                "status": 1,
+                "imdb_id": 239,
+                "type": 1,
+                "id": 27,
+                "name": "Джонни Ли Миллер"
+            },
+            {
+                "status": 1,
+                "imdb_id": 239,
+                "type": 1,
+                "id": 27,
+                "name": "Кен Стот"
+            }
+        ],
+        "year": 1999,
+        "id": 13,
+        "ratings": [
+            {
+                "source": "kinoinfo",
+                "rate": "8.86",
+                "votes": 7
+            },
+            {
+                "source": "imdb",
+                "rate": "6.4",
+                "votes": 8359
+            }
+        ],
+        "genres": [
+            {
+                "id": 6,
+                "name": "приключения"
+            },
+            {
+                "id": 7,
+                "name": "боевик"
+            },
+            {
+                "id": 7,
+                "name": "комедия"
+            }
+        ],
+        "name": "Планкетт и МакКлейн",
+        "limits": "16+",
+        "countries": [
+            {
+                "id": 5,
+                "name": "Великобритания"
+            }
+        ],
+        "datelastupd": "2008-10-16 11:49:33",
+        "release": "1999-06-01",
+        "runtime": 99,
+        "original": "Plunkett & Macleane"
+    },
+    {
+        "comment": "",
+        "img": "https://my-hit.org/storage/293102_500x800x250.jpg",
+        "description": "Немая девочка из американской семьи становится свидетельницей убийства в амстердамском отеле, из-за чего она и ее семья оказываются в смертельной опасности.",
+        "site": "http://www.donotdisturb.nl",
+        "imdb_id": 185284,
+        "persons": [
+            {
+                "status": 1,
+                "imdb_id": 458,
+                "type": 1,
+                "id": 29,
+                "name": "Уильям Херт"
+            },
+            {
+                "status": 1,
+                "imdb_id": 236,
+                "type": 1,
+                "id": 30,
+                "name": "Дженнифер Тилли"
+            },
+            {
+                "status": 1,
+                "imdb_id": 1459,
+                "type": 1,
+                "id": 31,
+                "name": "Дэнис Лири"
+            },
+                        {
+                "status": 1,
+                "imdb_id": 1459,
+                "type": 1,
+                "id": 31,
+                "name": "Франческа Браун"
+            }
+        ],
+        "year": 1999,
+        "id": 14,
+        "ratings": [
+            {
+                "source": "kinoinfo",
+                "rate": "9.0",
+                "votes": 2
+            },
+            {
+                "source": "imdb",
+                "rate": "4.9",
+                "votes": 2140
+            }
+        ],
+        "genres": [
+            {
+                "id": 7,
+                "name": "боевик"
+            },
+            {
+                "id": 9,
+                "name": "триллер"
+            },
+            {
+                "id": 9,
+                "name": "драма"
+            }
+        ],
+        "name": "Беспокойный свидетель",
+        "limits": "16+",
+        "countries": [
+            {
+                "id": 6,
+                "name": "Нидерланды"
+            }
+        ],
+        "datelastupd": "2008-10-16 11:57:52",
+        "release": "2000-07-01",
+        "runtime": 94,
+        "original": "Do Not Disturb"
+    },
+    {
+        "comment": "",
+        "img": "https://myklad.org/thumbs/07XOpYycpLfhzqDM2qxgouXIe9OFpMrLd8ipiNmrvOLVotTmsmCl6MjB2bslep3sl6yufB03OCqphmpKx1nKPa/vinovnyj-the-guilty-yentoni-uoller-dvo-1.jpg",
+        "description": "Накануне решающего момента в своей карьере высокопоставленный юрист совершает ужасную ошибку, которая может сломать его жизнь…",
+        "site": "http://www.jment.com/jmguilty.htm",
+        "imdb_id": 186183,
+        "persons": [
+            {
+                "status": 1,
+                "imdb_id": 597,
+                "type": 1,
+                "id": 33,
+                "name": "Билл Пуллман"
+            },
+            {
+                "status": 1,
+                "imdb_id": 597,
+                "type": 1,
+                "id": 33,
+                "name": "Билл Пуллман"
+            },
+            {
+                "status": 1,
+                "imdb_id": 597,
+                "type": 1,
+                "id": 33,
+                "name": "Билл Пуллман"
+            },
+            {
+                "status": 1,
+                "imdb_id": 597,
+                "type": 1,
+                "id": 33,
+                "name": "Билл Пуллман"
+            }
+        ],
+        "year": 2000,
+        "id": 15,
+        "ratings": [
+            {
+                "source": "kinoinfo",
+                "rate": "0.0",
+                "votes": 0
+            },
+            {
+                "source": "imdb",
+                "rate": "6.2",
+                "votes": 2620
+            }
+        ],
+        "genres": [
+            {
+                "id": 9,
+                "name": "триллер"
+            },
+            {
+                "id": 12,
+                "name": "криминальный"
+            },
+            {
+                "id": 12,
+                "name": "боевик"
+            }
+        ],
+        "name": "Виновен",
+        "limits": "16+",
+        "countries": [
+            {
+                "id": 5,
+                "name": "Великобритания"
+            },
+            {
+                "id": 1,
+                "name": "США"
+            }
+        ],
+        "datelastupd": "2008-12-17 11:48:43",
+        "release": "",
+        "runtime": 108,
+        "original": "The Guilty"
+    },
+    {
+        "comment": "",
+        "img": "https://www.film.ru/sites/default/files/movies/posters/Pitch-Black-6.jpg",
+        "description": "История космического корабля и его пассажиров, терпящих крушение на далекой, безлюдной планете, населенной зловещими монстрами…",
+        "site": "http://www.pitch-black.com/",
+        "imdb_id": 134847,
+        "persons": [
+            {
+                "status": 1,
+                "imdb_id": 4874,
+                "type": 1,
+                "id": 36,
+                "name": "Вин Дизел"
+            },
+            {
+                "name": "Рада Митчел"
+            },
+            {
+                "name": "Коул Хаузер"
+            },
+            {
+                "name": "Кит Дэвид"
+            }
+        ],
+        "year": 2000,
+        "id": 16,
+        "ratings": [
+            {
+                "source": "kinoinfo",
+                "rate": "7.64",
+                "votes": 25
+            },
+            {
+                "source": "imdb",
+                "rate": "7.1",
+                "votes": 182062
+            }
+        ],
+        "genres": [
+            {
+                "id": 3,
+                "name": "фантастика"
+            },
+            {
+                "id": 5,
+                "name": "драма"
+            },
+            {
+                "id": 10,
+                "name": "ужасы"
+            }
+        ],
+        "name": "Черная дыра",
+        "limits": "16+",
+        "countries": [
+            {
+                "id": 1,
+                "name": "США"
+            }
+        ],
+        "datelastupd": "2010-09-25 10:23:37",
+        "release": "2001-03-15",
+        "runtime": 108,
+        "original": "Pitch Black"
+    }
+]
