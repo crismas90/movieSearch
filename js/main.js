@@ -11,12 +11,12 @@ function getMovie(searchText) {
         let output = '';
         let regex = new RegExp(searchText, "i");
         $.each(data, function (key, val) {
-            if (val.name.search(regex) != -1 ) {
+            if (val.name.search(regex) != -1 || val.original.search(regex) != -1) {
                 output += `
                 <div class="col-md-3">
                     <div class="well text-center">
                         <img src="${val.img}">
-                        <h5>${val.name}</h5>
+                        <h5>${val.name}<br>${val.original}</h5>
                         <a onclick="movieSelected('${val.id}')" class="btn btn-primary" href="#">Подробнее</a>
                     </div>
                 </div>
