@@ -35,12 +35,13 @@ function getMovie(searchText) {
 
 function getMovies() {
     let movieId = sessionStorage.getItem('movieId');
-    $.getJSON('js/film.json', function (data) {
+    $.getJSON('js/film.json',function (data) {
         console.log(data)
         let output = '';
         $.each(data, function (key, val) {
+            if(movieId==val.id){
                 output += `
-                <div class="row ">
+                <div class="row">
                     <div class="col-md-4">
                         <img src="${val.img}" class="thumbnail">
                     </div>
@@ -66,6 +67,7 @@ function getMovies() {
                     </div>
                 </div>    
             `;
+            }
         });
         $('#movie').html(output)
     });
